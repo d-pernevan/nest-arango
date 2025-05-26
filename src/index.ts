@@ -1,5 +1,5 @@
 export { Database } from 'arangojs';
-export { CollectionType } from 'arangojs/collection';
+export { CollectionType } from 'arangojs/collections';
 
 export * from './arango.module';
 export * from './cli/interfaces/cli-config.interface';
